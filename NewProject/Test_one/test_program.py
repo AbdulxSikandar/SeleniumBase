@@ -268,4 +268,3 @@ class Test:
         self.driver.back()
         self.driver.close()
 
-# last test for website
